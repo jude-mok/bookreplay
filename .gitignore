@@ -1,0 +1,25 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Build output (place new executables here)
+/build/
+/cmake-build-*/
+
+# Existing executable created beside the practice source
+/pre_practice/practice
+
+# Compiled objects, libraries, and debug symbols
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.dSYM/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
